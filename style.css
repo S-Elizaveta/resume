@@ -1,0 +1,67 @@
+body{
+ font-size: 14 px;
+ font-family: "PT Sans", "Arial", sans-serif;
+ line-height: normal; 
+ background-color: rgba(17, 174, 236, 0.5);
+ padding: 5px;
+}
+
+header{
+  
+}
+.image {
+    position	: relative;
+}
+
+.image h2 {
+	position	: absolute;
+	top		: 100px;
+	left		: 10px;
+}
+h2 span {
+	color			: rgba(255, 255, 255, 0.589);
+	font			: bold 24px/45px Helvetica, Sans-Serif;
+	letter-spacing		: normal;
+	background		: rgba(0, 0, 0, 0.7);
+	padding			: 5px;
+}
+
+nav{
+align-content: left;
+line-height: 5px;
+padding : 10px;
+}
+
+p{
+    padding-left: 20px;
+}
+table {
+    width: 90%; /* Ширина таблицы */
+   }
+   TD {
+    vertical-align: top; /* Выравнивание по верхнему краю ячейки */
+   }
+   #col1 {
+    width: 30%; 
+    background: rgba(151, 66, 248, 0.637); 
+   }
+   #col2 {
+    width: 30%;
+    background:  rgba(224, 104, 248, 0.637);; 
+   }
+   #col3 {
+    width: 30%; 
+    background:  rgba(151, 66, 248, 0.637);; 
+   }
+.hello{
+    padding:10px;
+}
+
+.why{
+    background-color: rgba(190, 30, 43, 0.5)
+
+}
+footer{
+    background-color: rgba(0, 0, 139,0.5);
+    color:rgba(255, 255, 255, 0.75);
+}
